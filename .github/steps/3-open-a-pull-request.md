@@ -6,39 +6,39 @@
   and that the file was named correctly.
 -->
 
-## Step 3: Open a pull request
+## Etapa 3: Abra um pull request
 
-_Nice work making that commit! :sparkles:_
+_Ótimo trabalho ao fazer aquele commit! :sparkles:_
 
-Now that you have made a change to the project and created a commit, it’s time to share your proposed change through a pull request!
+Agora que você fez uma alteração no projeto e criou um commit, é hora de compartilhar sua proposta de alteração através de um pull request!
 
-**What is a pull request?**: Collaboration happens on a _[pull request](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request)_. The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. In a side by side comparison, this pull request is going to keep the changes you just made on your branch and propose applying them to the `main` project branch. For more information about pull requests, see "[About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
+**O que é um pull request?**: A colaboração acontece em um _[pull request](https://docs.github.com/pt/get-started/quickstart/github-glossary#pull-request)_. O pull request mostra as alterações da sua branch para outras pessoas e permite que elas aceitem, rejeitem ou sugiram mudanças adicionais na sua branch. Em uma comparação lado a lado, este pull request vai manter as alterações que você acabou de fazer na sua branch e propor aplicá-las à branch principal `main` do projeto. Para mais informações sobre pull requests, veja "[Sobre pull requests](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
 
-### :keyboard: Activity: Create a pull request
+### :keyboard: Atividade: Crie um pull request
 
-You may have noticed after your commit that a message displayed indicating your recent push to your branch and providing a button that says **Compare & pull request**.
+Você pode ter notado que, após seu commit, uma mensagem foi exibida indicando seu push recente para a branch e oferecendo um botão chamado **Compare & pull request**.
 
-![screenshot of message and button](/images/compare-and-pull-request.png)
+![captura de tela da mensagem e botão](/images/compare-and-pull-request.png)
 
-To create a pull request automatically, click **Compare & pull request**, and then skip to step 6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
+Para criar um pull request automaticamente, clique em **Compare & pull request** e então pule para o passo 6 abaixo. Se não clicar no botão, as instruções abaixo te guiarão para configurar o pull request manualmente.
 
-1. Click on the **Pull requests** tab in the header menu of your repository.
-2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `my-first-branch`.
+1. Clique na aba **Pull requests** no menu superior do seu repositório.
+2. Clique em **New pull request**.
+3. No menu suspenso **base:**, certifique-se de que **main** está selecionado.
+4. No menu suspenso **compare:**, clique em `my-first-branch`.
 
-   ![screenshot showing both branch selections](/images/pull-request-branches.png)
+   ![captura de tela mostrando seleção das branches](/images/pull-request-branches.png)
 
-5. Click **Create pull request**.
-6. Enter a title for your pull request. By default, the title will automatically be the name of your branch. For this exercise, let's edit the field to say `Add my first file`.
-7. The next field helps you provide a description of the changes you made. Here, you can add a description of what you’ve accomplished so far. As a reminder, you have: created a new branch, created a file, and made a commit.
+5. Clique em **Create pull request**.
+6. Digite um título para seu pull request. Por padrão, o título será automaticamente o nome da sua branch. Para este exercício, edite o campo para `Adicionar meu primeiro arquivo`.
+7. O próximo campo ajuda você a fornecer uma descrição das alterações feitas. Aqui, você pode adicionar uma descrição do que realizou até agora. Como lembrete, você: criou uma nova branch, criou um arquivo e fez um commit.
 
-   ![screenshot showing pull request](/images/Pull-request-description.png)
+   ![captura de tela mostrando pull request](/images/Pull-request-description.png)
 
-8. Click **Create pull request**. You will automatically be navigated to your new pull request.
-9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+8. Clique em **Create pull request**. Você será automaticamente direcionado para seu novo pull request.
+9. Espere cerca de 20 segundos e então atualize esta página (a que você está seguindo as instruções). O [GitHub Actions](https://docs.github.com/pt/actions) irá atualizar automaticamente para o próximo passo.
 
-> [!NOTE]
-> You may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.
+> [!NOTA]
+> Você pode ver evidências do GitHub Actions rodando na aba do pull request aberto! A imagem abaixo mostra uma linha que você pode ver no seu pull request após a Action terminar de rodar.
 > 
-> ![screenshot of an example of an actions line](/images/Actions-to-step-4.png)
+> ![captura de tela de exemplo de linha de actions](/images/Actions-to-step-4.png)

@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introdução ao Github
 
-_Get started using GitHub in less than an hour._
+_Comece a usar o GitHub em menos de uma hora._
 
 </header>
 
@@ -19,24 +19,25 @@ _Get started using GitHub in less than an hour._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+## Bem-vindo
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course takes less than one hour to complete.
+As pessoas usam o GitHub para construir algumas das tecnologias mais avançadas do mundo. Seja para visualizar dados ou criar um novo jogo, há toda uma comunidade e um conjunto de ferramentas no GitHub que podem te ajudar a fazer isso ainda melhor. O curso “Introdução ao GitHub” do GitHub Skills te guia por tudo o que você precisa para começar a contribuir em menos de uma hora.
 
-In this course, you will:
+- **Para quem é**: Novos desenvolvedores, novos usuários do GitHub e estudantes.
+- **O que você vai aprender**: Vamos apresentar repositórios, branches, commits e pull requests.
+- **O que você vai criar**: Vamos fazer um pequeno arquivo Markdown que você pode usar como seu [README de perfil](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Pré-requisitos**: Nenhum. Este curso é uma ótima introdução para seu primeiro dia no GitHub.
+- **Duração**: Este curso leva menos de uma hora para ser concluído.
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+Neste curso, você irá:
 
-### How to start this course
+1. Criar uma branch
+2. Fazer um commit em um arquivo
+3. Abrir um pull request
+4. Mesclar seu pull request
+
+### Como começar este curso
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
@@ -49,14 +50,15 @@ In this course, you will:
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+[![iniciar-curso](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
+
+1. Clique com o botão direito em **Iniciar curso** e abra o link em uma nova aba.
+2. Na nova aba, a maioria dos campos será preenchida automaticamente para você.
+   - Para proprietário, escolha sua conta pessoal ou uma organização para hospedar o repositório.
+   - Recomendamos criar um repositório público, pois repositórios privados irão [usar minutos do Actions](https://docs.github.com/pt/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Role para baixo e clique no botão **Criar repositório** no final do formulário.
+3. Após seu novo repositório ser criado, espere cerca de 20 segundos e então atualize a página. Siga as instruções passo a passo no README do novo repositório.
 
 <footer>
 
@@ -67,8 +69,9 @@ In this course, you will:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Obtenha ajuda: [Publique em nosso fórum de discussão](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Veja a página de status do GitHub](https://www.githubstatus.com/)
+
+&copy; 2024 GitHub &bull; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
 
 </footer>

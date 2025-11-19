@@ -6,40 +6,40 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## Etapa 1: Crie uma branch
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Bem-vindo ao "Introdução ao GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+**O que é o GitHub?**: O GitHub é uma plataforma de colaboração que utiliza o _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ para controle de versão. O GitHub é um local popular para compartilhar e contribuir com softwares [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source).
+<br>:tv: [Vídeo: O que é GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+**O que é um repositório?**: Um _[repositório](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ é um projeto que contém arquivos e pastas. Um repositório rastreia versões desses arquivos e pastas. Para mais informações, veja "[Sobre repositórios](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)" na documentação do GitHub.
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+**O que é uma branch?**: Uma _[branch](https://docs.github.com/pt/get-started/quickstart/github-glossary#branch)_ é uma versão paralela do seu repositório. Por padrão, seu repositório tem uma branch chamada `main` e ela é considerada a principal. Criar branches adicionais permite copiar a branch `main` do seu repositório e fazer alterações com segurança, sem afetar o projeto principal. Muitas pessoas usam branches para trabalhar em funcionalidades específicas sem impactar outras partes do projeto.
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+Branches permitem que você separe seu trabalho da branch `main`. Em outras palavras, o trabalho de todos está seguro enquanto você contribui. Para mais informações, veja "[Sobre branches](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+**O que é um README de perfil?**: Um _[README de perfil](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ é basicamente uma seção "Sobre mim" no seu perfil do GitHub, onde você pode compartilhar informações sobre você com a comunidade no GitHub.com. O GitHub exibe seu README de perfil no topo da sua página de perfil. Para mais informações, veja "[Gerenciando seu README de perfil](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![profile-readme-example](/images/profile-readme-example.png)
+![exemplo-readme-perfil](/images/profile-readme-example.png)
 
-### :keyboard: Activity: Your first branch
+### :keyboard: Atividade: Sua primeira branch
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+1. Abra uma nova aba do navegador e acesse seu repositório recém-criado. Em seguida, execute os passos na segunda aba enquanto lê as instruções nesta aba.
+2. Navegue até a aba **< > Code** no menu superior do seu repositório.
 
-   ![code-tab](/images/code-tab.png)
+   ![aba-code](/images/code-tab.png)
 
-3. Click on the **main** branch drop-down.
+3. Clique no menu suspenso da branch **main**.
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+   ![dropdown-main-branch](/images/main-branch-dropdown.png)
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+4. No campo, nomeie sua branch como `my-first-branch`. Neste caso, o nome deve ser exatamente `my-first-branch` para acionar o fluxo do curso.
+5. Clique em **Create branch: my-first-branch** para criar sua branch.
 
-   ![create-branch-button](/images/create-branch-button.png)
+   ![botao-criar-branch](/images/create-branch-button.png)
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+   A branch será automaticamente alterada para a que você acabou de criar.
+   A barra de menu suspenso da branch **main** irá refletir sua nova branch e exibir o novo nome.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+6. Espere cerca de 20 segundos e então atualize esta página (a que você está seguindo as instruções). O [GitHub Actions](https://docs.github.com/pt/actions) irá atualizar automaticamente para o próximo passo.
