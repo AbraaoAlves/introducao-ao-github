@@ -51,7 +51,7 @@ Neste curso, você irá:
 -->
 
 
-[![iniciar-curso](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
+[![iniciar-curso](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=abraaoalves&template_name=introducao-ao-github&owner=%40me&name=skills-introducao-ao-github&description=Meu+repositório+clonado&visibility=public)
 
 1. Clique com o botão direito em **Iniciar curso** e abra o link em uma nova aba.
 2. Na nova aba, a maioria dos campos será preenchida automaticamente para você.
